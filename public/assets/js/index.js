@@ -22,7 +22,7 @@ app.post('/api/notes', (req, res) => {
   
   const newNoteTitle = req.body;
 
-  const newNote =
+  const newNote = 
 
   // Using a RegEx Pattern to remove spaces from newCharacter
   // You can read more about RegEx Patterns later https://www.regexbuddy.com/regex.html
