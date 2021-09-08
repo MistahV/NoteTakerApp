@@ -10,7 +10,7 @@ This application should be ready to go right from download. You may need to do a
 
 ## Links
 
-https://mistahv.github.io/NoteTakerApp/ (application)
+https://note-taker-vanetten.herokuapp.com/ (application)
 https://github.com/MistahV/NoteTakerApp.git (git code)
 
 
